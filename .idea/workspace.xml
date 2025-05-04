@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e76d953-7f94-46ae-b349-ada1e957cb22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp0/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/RomanNumeral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/Calculatrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo2/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo2/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo2/Utilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo2/UtilisateurApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo3/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo3/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo3/Utilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo3/UtilisateurApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/Banque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/BanqueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/DebitImpossibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/JeuFermeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp2/exo4/Joueur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo1/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo1/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo2/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo2/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo2/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo3/ProductApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/exo3/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp4/taskmanager/TaskManagerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp4/taskmanager/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp4/taskmanager/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp4/taskmanager/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp4/taskmanager/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/MatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp0/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/PalindromeCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/QuadraticEquationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/RomanNumeralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo1CorrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/BranchCoverageTest/Exo6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo1CorrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/ConditionCoverageTest/Exo6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo1CorrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp1/coverageTest/LineCoverageTest/Exo6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp2/CalculatriceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp2/exo2/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp2/exo3/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp2/exo4/JeuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp3/exo1/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp3/exo2/OrderControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp3/exo2/OrderServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp3/exo3/ProductServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tp4/taskmanager/controller/TaskControllerIntegrationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2utIzpV8Q5iFUhihmXCf8tXT8YL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/PRIME/Desktop/distributedSystems - mysql-final",
+    "onboarding.tips.debug.path": "C:/Users/PRIME/Desktop/TP/tp AQL/junit-tutorial/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.tp1" />
+      <recent name="org.example.tp0" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.tp4.taskmanager.controller" />
+      <recent name="org.example.tp3.exo3" />
+      <recent name="org.example.tp3.exo2" />
+      <recent name="org.example.tp3.exo1" />
+      <recent name="org.example.tp2.exo4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StackTest">
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tp0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.tp0" />
+      <option name="MAIN_CLASS_NAME" value="org.example.tp0.FibonacciTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tp0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.tp0" />
+      <option name="MAIN_CLASS_NAME" value="org.example.tp0.MatrixTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tp0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.tp0" />
+      <option name="MAIN_CLASS_NAME" value="org.example.tp0.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tp0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.tp0" />
+      <option name="MAIN_CLASS_NAME" value="org.example.tp0.PrimeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tp0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.tp0" />
+      <option name="MAIN_CLASS_NAME" value="org.example.tp0.StackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FibonacciTest" />
+      <item itemvalue="JUnit.MatrixTest" />
+      <item itemvalue="JUnit.PersonTest" />
+      <item itemvalue="JUnit.PrimeTest" />
+      <item itemvalue="JUnit.StackTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StackTest" />
+        <item itemvalue="JUnit.PrimeTest" />
+        <item itemvalue="JUnit.PersonTest" />
+        <item itemvalue="JUnit.MatrixTest" />
+        <item itemvalue="JUnit.FibonacciTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e76d953-7f94-46ae-b349-ada1e957cb22" name="Changes" comment="" />
+      <created>1743061713342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743061713342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/tp2/exo2/UserServiceTest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/tp2/exo4/JeuTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/tp0/MatrixTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/junit_tutorial$FibonacciTest.ic" NAME="FibonacciTest Coverage Results" MODIFIED="1744202475820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/junit_tutorial$AnagramTest_shouldReturnTrue_ForEmptyStrings.ic" NAME="AnagramTest.shouldReturnTrue_ForEmptyStrings Coverage Results" MODIFIED="1744206582572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeCheckerTest_isPalindrome_ShouldReturnTrue_WhenSingleCharacter.ic" NAME="PalindromeCheckerTest.isPalindrome_ShouldReturnTrue_WhenSingleCharacter Coverage Results" MODIFIED="1744207841014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeTest_shouldReturnTrue_ForPalindromeWord.ic" NAME="PalindromeTest.shouldReturnTrue_ForPalindromeWord Coverage Results" MODIFIED="1744208266956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeCheckerTest_isPalindrome_ShouldThrowException_WhenNullString.ic" NAME="PalindromeCheckerTest.isPalindrome_ShouldThrowException_WhenNullString Coverage Results" MODIFIED="1744208150456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeCheckerTest.ic" NAME="PalindromeCheckerTest Coverage Results" MODIFIED="1744207975783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$BinarySearchTest.ic" NAME="BinarySearchTest Coverage Results" MODIFIED="1744207434951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeCheckerTest_isPalindrome_ShouldReturnTrue_WhenPalindrome.ic" NAME="PalindromeCheckerTest.isPalindrome_ShouldReturnTrue_WhenPalindrome Coverage Results" MODIFIED="1744207766245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeTest.ic" NAME="PalindromeTest Coverage Results" MODIFIED="1744208398792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeTest_testFailure_DetectWrongLoopLogic.ic" NAME="PalindromeTest.testFailure_DetectWrongLoopLogic Coverage Results" MODIFIED="1744208361801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$FizzBuzzTest.ic" NAME="FizzBuzzTest Coverage Results" MODIFIED="1744208483014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$AnagramTest.ic" NAME="AnagramTest Coverage Results" MODIFIED="1744837389821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_tutorial$PersonTest.ic" NAME="PersonTest Coverage Results" MODIFIED="1744202163384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/junit_tutorial$FibonacciTest_fibonacci_ShouldReturn0_WhenNIs0.ic" NAME="FibonacciTest.fibonacci_ShouldReturn0_WhenNIs0 Coverage Results" MODIFIED="1744201632007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/junit_tutorial$PalindromeCheckerTest_isPalindrome_ShouldReturnFalse_WhenNotPalindrome.ic" NAME="PalindromeCheckerTest.isPalindrome_ShouldReturnFalse_WhenNotPalindrome Coverage Results" MODIFIED="1744207820159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.tp1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
