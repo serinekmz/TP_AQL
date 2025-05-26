@@ -22,3 +22,5 @@ Cloner ou télécharger un projet d'application de gestion de tâches.
 Réécrire les tests d'intégration existants en utilisant Testcontainers et Docker.
 Exécuter et vérifier le bon fonctionnement des tests d'intégration réécrits.
 
+remarque 
+Testcontainers fait ça automatiquement, donc le fichier docker-compose.yml  par exemple est inutile pour les tests
